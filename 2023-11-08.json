@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Bush",
+  "age": 55,
+  "address": {
+    "street": "Iwoda Glen",
+    "city": "Pupcouti",
+    "state": "MD",
+    "zip": "92563"
+  },
+  "contact": {
+    "phone": "(941) 831-6637",
+    "servicePhone": "800995764"
+  },
+  "birthday": "1997-05-20T12:05:53.015Z",
+  "ip": "80.25.37.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Muz vualukal fed fipci zuow tiw nogok zid fo hivwov caw bog. Saz unucoad waz jet hojno vowwa ave licifnu bef wita ivcigode te. Po calluwze gur ah pezribco neho mijocgoc zab tis pod nehru ba walur jaowlow vofme miwle tam. Wiba wazauzu are cecni gowbom talajiog mepje zawnovzul dosip ne evo cof zuufeate suvopoj.",
+    "bio": "Adduvus guvigemo naiduk rug rer zut bi fen ci eju pewaswow ita logrocuh ukomdi niw no. Kubju tim pas nuslahu geohu gilece fecnawi wa ne ilfubdoz cozohgab jicahniv. Te le si cabus oveuba giove weaso had pes av raberwuv zajojmo zoecra puf. Re mu cibtosa apa apmiw goda uka ettioc zeb zen bojag zu ubuna bead hisalo kasbacdoj opdusil."
+  },
+  "apiKey": "6d983988c317e03b2ea578dfc25cb84a5c64cf7cbd55e489697404a07a5bbf88",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
