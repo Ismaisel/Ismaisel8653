@@ -1,0 +1,26 @@
+{
+  "name": "Marcus Holt",
+  "age": 30,
+  "address": {
+    "street": "Ospef Ridge",
+    "city": "Leemoho",
+    "state": "ND",
+    "zip": "19342"
+  },
+  "contact": {
+    "phone": "(387) 226-3120",
+    "servicePhone": "800171764"
+  },
+  "birthday": "2006-10-07T03:06:16.243Z",
+  "ip": "241.34.230.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Ce siuslap ral mofadgu vaafiser omekulnum aw vooco lobihnen aro fone luno rab. Pebi omja fibazhak dikurgaj ado fi gaija fek jerlaj diwwa rowipil ora ziva mad co kuhi. Tokne vabagap cunkupko sokralzog worhewhe biz li wa micmeh poolitol meuhobo mafsehu buleb. Fapgodu vawa wutimih rabuwla liwi kaiz gi bevca benefu ured nuccoec natbino mo worpu.",
+    "bio": "Sunilba guk tehi bi mabriji jivifi ca nebgabtac hogbucud ucarupken suchiwat to rotbigit. Ke piejo cu tubapa kamudizak vu fisgahuk ni levus lektoj zu lisadhi evofuh ki moswa poon egpo. Karevi uz loipre vizi rohisu ok wasiza ke pawol gadecza pampanan min."
+  },
+  "apiKey": "71e22f408a8a17e2d23a084f68c1d7bd822f353f48a33f1b4115d0aa05365588",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
