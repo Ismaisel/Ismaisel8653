@@ -1,0 +1,26 @@
+{
+  "name": "Leona Fisher",
+  "age": 59,
+  "address": {
+    "street": "Dooz Terrace",
+    "city": "Nizabi",
+    "state": "SD",
+    "zip": "41141"
+  },
+  "contact": {
+    "phone": "(441) 747-1477",
+    "servicePhone": "800693956"
+  },
+  "birthday": "1985-02-19T08:34:35.723Z",
+  "ip": "25.228.153.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Aw ufeiwunu ges cepehe be wilirikuh cuncu holbocreb zefebo gidifepun ben cajfepbok eta hawun hez luebi. Inafa jupzuvle seza muwtu nodidob vus lecwerag vo gi fader elaeb uhe de raw iliivi ru fesocnoz. Horakpuh jar atagon zutzabvo uhuizu had feaminu bo zobe daugta naljit gajfasnez.",
+    "bio": "Tored zaf uli inufam cetcul ziij kecuguc ros zuwrus zi fi ferfe kejuceni mig lokje gac. Cuc ovbezi mo bohe zad sewejpow burnog jiwebako hi gemlofoj vos gor hoj. Katuvus ojanuduf em wuznippom gibut alre kiziwijer oroibsun nirrilce nic kupap agukovi."
+  },
+  "apiKey": "cba609d1f289d93dfba3d70addfdc18530b3922452a4c223f24e6b56ecfaf214",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
