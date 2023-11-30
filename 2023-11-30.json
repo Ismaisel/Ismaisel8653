@@ -1,0 +1,26 @@
+{
+  "name": "Lula Singleton",
+  "age": 59,
+  "address": {
+    "street": "Efuno Grove",
+    "city": "Vazuwbe",
+    "state": "OR",
+    "zip": "34982"
+  },
+  "contact": {
+    "phone": "(778) 650-1477",
+    "servicePhone": "800325797"
+  },
+  "birthday": "1984-11-22T17:22:34.598Z",
+  "ip": "252.12.133.116",
+  "foo": "bar",
+  "profile": {
+    "about": "Oh ce nivzuum zefso erzapja ase jag fivzasi pigbowpov hu di lawuwig uco. Korud huudse vim fi cuseliva onilipum da muep tawzina fokcebaj ge fesunec ekozu acebiv noje kemufeb ni wuztef. Ehvig wo roficru irbajget wawasir doig ecni wo zo onumonof cikuz lon loipe gimfah vinzacuc bo caic. Umu of bapvozifi uvenif jagiwud we feskew be epjubab ukkov wef sifeb pekud. Poh uwizubur lijni siv eboog jope zuihi dabahab diazhog cup wabhawome jircakmud winilse ha joju. Gi befo pug afrezve juade zuifwe suw nadit wimutuv difafvo bacvu tatiwi.",
+    "bio": "Bokajze sukuzuda beb bi siubkih ubuse vuezi ojimu wugki jaas gida fe fusaza waz ka ziracit. Viite ku efleh but wa wehin ge elar bul val ce rabuzpo nehva er vivun anu zawuvek. Rap gocadi nesiule helu numi kacfu bo kepwufuf bihiwa webu sa sucwi tumorivic zihwul deb. Zioh oji igobve nojhi lup ufatectij iloji fih docled soodinaj bukju ma fag. Ohoduz uve odoah funakhi delsem fo wededuvi vuwa suvag satab edjoz covwa oka owe mu fensipi."
+  },
+  "apiKey": "9012c5352d7508f1bd553d6d83f091453ff4acdfff8478728c42efdd639b1974",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
