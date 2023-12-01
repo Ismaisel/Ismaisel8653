@@ -1,0 +1,26 @@
+{
+  "name": "Mina Wilson",
+  "age": 61,
+  "address": {
+    "street": "Izoowi Place",
+    "city": "Ajoapbu",
+    "state": "TN",
+    "zip": "50720"
+  },
+  "contact": {
+    "phone": "(461) 811-7638",
+    "servicePhone": "800313765"
+  },
+  "birthday": "1971-12-18T11:55:47.092Z",
+  "ip": "21.246.34.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Reowu dutfoh vewi mogfi ridiufe bec lughomola vi vo rojgisos noc eketumig. Pa updu wetu ge gearakol awbir boddol tenigu kod poatu fuhsaz afmonron anesata vezazta kufi os telupic. Dov dupe lejesbut godduc ife er fohir vop zazkut he roewohu mo aksaveju pi degudok.",
+    "bio": "Rodkuoca cucwiin hidu nefa owo amo nousopa re heped dapu vubo teuro wokzohur nenpapu. Wevga geoko nitas gubuji ma jih pewat dor bom zuj ekogge jihcif nolwu dimfek zo kem. Kit rumwisvo pezbes azodup dedbejawe nupwikba ro bupeco mifcur zerat mipbip kegmihpe."
+  },
+  "apiKey": "f2d72c616e6f549dfd6c47b8492a98f55d86cc74bac1ad34441e2862eb7675c0",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
