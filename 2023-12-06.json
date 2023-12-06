@@ -1,0 +1,26 @@
+{
+  "name": "Mayme Fletcher",
+  "age": 61,
+  "address": {
+    "street": "Bafa Center",
+    "city": "Cofohouk",
+    "state": "WI",
+    "zip": "34333"
+  },
+  "contact": {
+    "phone": "(337) 996-1425",
+    "servicePhone": "800455679"
+  },
+  "birthday": "1980-06-05T14:04:34.188Z",
+  "ip": "40.45.207.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Juvbon fanwoba edat ojesog pa habpeb beapino debbun otouvi mutkawbu ladefov cinme. Rubroswi seh hik zaz alo bowat reaj ucaoko bor sikando vujpun mul leducjim faabdo. Lachawi sogruz ni vu zegketuv acatafow dunuwlag za ofhorze abiedlo carugis homzaj kog. Vife pazre daabawij olu jampaceba tudo lifipada bejuoko hadzi saiw rer olgoja zudoje du appe.",
+    "bio": "Ic zahuari josufago poznoj egrad jiwineb vuj dewnifzes fo vajcuhi if ridji ko ruwe kiljef fisvav inigordok ehuboba. Okajozku esudzan leoni tu wabo bulizir heza rivko so ucateego unise goca dav buka nijibwuv det afonoh. Imo rato siek pacluni suzeza wapolci fofuv ucaacida ti go huzmu joseza nuew na rassup rug."
+  },
+  "apiKey": "fe8a28ea6ddd7be6aeb0886503b31408bd060326d2aa7481d696f318ba052a7d",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
