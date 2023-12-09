@@ -1,0 +1,26 @@
+{
+  "name": "Nell Cruz",
+  "age": 27,
+  "address": {
+    "street": "Sefor Loop",
+    "city": "Kohowof",
+    "state": "MN",
+    "zip": "55053"
+  },
+  "contact": {
+    "phone": "(877) 926-1494",
+    "servicePhone": "800536928"
+  },
+  "birthday": "1972-12-05T00:05:49.328Z",
+  "ip": "127.3.232.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Du kagvip is rekbalpur esene vunajmit uwase dedkes pe fes semaobi licep ahuisuto avbaczo wamona. Owiwil ecenur ga fi ewfe ka wokot zirsa gave lehsuhju pama hutsat. Ok pak jopivewid azhob vu imo du dehhowu nufwipbal pup sucta rocjar bisedkog. Cuuc gerkiz rup pu wictari fi bavwehud as kug pe usto narravkuk ohe raguc delgovdov.",
+    "bio": "Nuziz ne ek oc tiot ogsukit tojoap zaguzuwe ahgeva vosenlik ce junov litu. Zef pod moh viezuoh utze ninekzaf ovi lis wabu be hemfetri tah zeol pizu goifu dotbuor fi. Aze cigolzu okigatu fuwar hal ebekopu odusaflip vamliki foj cevob hukup few madabu gofobez tu."
+  },
+  "apiKey": "ffc70aa12b279627297e472b2aa39aae00a7968cc875c3943a551ed1642fb46f",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
