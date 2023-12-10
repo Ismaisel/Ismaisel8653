@@ -1,0 +1,26 @@
+{
+  "name": "Dominic Gibbs",
+  "age": 22,
+  "address": {
+    "street": "Urim Path",
+    "city": "Cevgirah",
+    "state": "VA",
+    "zip": "28733"
+  },
+  "contact": {
+    "phone": "(244) 274-9674",
+    "servicePhone": "800967532"
+  },
+  "birthday": "2003-04-07T15:23:23.791Z",
+  "ip": "161.61.30.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Volhah ivaneczo koflesron nicimas tuuge atzon ujekow ujipahe mu wu ezrosip busgaw. Os hata ig kicawuk mokzuap ecapo kasauzu oknem ja aje belinjem fa sokavod kepon. Mosze mit ledeji zurbitsif vot isub da cukaf vabwiiw daoku tel kuzlidse. Pel afuvub cu ze no zadu isjegu rizok hagram mamife hijaza vo.",
+    "bio": "Muvlobew bahjow raabsu iftisi gur fokuhsiz tefo bun kavnup lane ibvojve nikussa da mo ladnapus dorivedur. Josrisu ce wov unmocsa mof guc jooteju id detga zefoleji cudfeva fikujod duh cipnal me. Buv dimzudva aswacuve cawuwi pil rusnu nad fi fozga uhnuspum koda cu tul kafinru."
+  },
+  "apiKey": "bd7474ce7c847f8752aa6e69aabeb3266d2fa371a0bd8fdd1afa101ea7a15bbe",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}
