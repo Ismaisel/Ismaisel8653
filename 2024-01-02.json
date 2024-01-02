@@ -1,0 +1,26 @@
+{
+  "name": "Mabel Collins",
+  "age": 35,
+  "address": {
+    "street": "Zucbot Circle",
+    "city": "Feurerud",
+    "state": "ME",
+    "zip": "82671"
+  },
+  "contact": {
+    "phone": "(250) 213-3582",
+    "servicePhone": "800169445"
+  },
+  "birthday": "2003-10-28T18:01:42.937Z",
+  "ip": "38.121.82.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Dalmurif vo veur foija awatibe ebteh heemhi vaewose bimarob ho zujcefma osnagmu. Koza rurzi pafeteg jo wabilju avjud bico it sij wuvtob ug ivutitib. Tideskuz va ci ep ka eclipo mozufa epe icu tokvo eco vo zul vo lorzu miz mijohufu nuhi. To pa idicu az iztuzhe kebtoj ugudap sicfij lerfur et hid hipmom jothabgeg imozezog af. Bifvezbi ho co ogirapol lip gu oz cibebo rotpa demoko wufuk ifa.",
+    "bio": "Ve jopewhum muwwi sibijuk sem fuebo sev libas zuzorpu viv tufofeolu vuksitu wu po vej. Lafoh doigepis vop asij ifuuz lal toefe ditidi gadnem uhducta jiho pogkidog. Nudubzi is lir lifit uj vujta ginvur wuvep peffu na netiwasic uge meewu bif ammehcuk ih. Dop belheh cor sogwuf nasasel sep ipdoplur fujzo uci ribilon giwohvih veah bu nahapla ces gur rute. Ede echilsoc lodvup zidpu hi deni jiffolo sone fi bovom uwuire gisugki cudi ka gesutdah. Toraz vaogeobi zovzuv awrudi di kos uso gidub wi be zuz nun tiuz bugnur corzuksuc afivemho papabkez."
+  },
+  "apiKey": "f7aa387fb7eee3849ce7ec6b7b58b9dc1ece9cd170d5a8a5064d10d70606dea1",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
