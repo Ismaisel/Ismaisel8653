@@ -1,0 +1,26 @@
+{
+  "name": "Roy Cooper",
+  "age": 30,
+  "address": {
+    "street": "Vekim Road",
+    "city": "Kocezuz",
+    "state": "GA",
+    "zip": "72110"
+  },
+  "contact": {
+    "phone": "(715) 371-7502",
+    "servicePhone": "800236892"
+  },
+  "birthday": "2000-06-22T07:23:55.680Z",
+  "ip": "42.208.175.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Puwje rom efcossir epihabe oti tucpis zoun zefam hal cikwow zad ifelzi. Oli jozep odiwolema ufizoga opinisdev je uwe goskomhus fot fahawi ho dez. Mu zehcu si mecahka aro jini jinow ol mukcif ke ciasihe iprivtop zaizeno ji gizka tikup opev coguzo. Dodbid dizutbi ibi regebnet la wog miwje da elapoku bar fesbip ni rufhah. Gi no sa ulkab fiuphi ul acisafic sofal kaf darel iszi wudwacu vosperub jaehcow sos epa todem mufe. Opguddu givnowak vugusuz ekomibu sariz tivkoha hu zuojoet vieb fokjocig hegowul ewumivas dibpe. Koaci wezje wi juwfi tetureg be ko tun ivenuw po panen su ten fibefpe.",
+    "bio": "Ho cufgocwo zataw zo fozome bur tuv kar elaako putor roegsik bu sewitela ogegiptab pu enmehba zo ge. Ja ehi ragris vo pabaspa ejifo kejuj ipaijawi izigi oficifu rah lefsajel. Vakzavo repaf ol elej ehdew gih veubgo urebe cibkohuhe tuljostag kuppa musga lunaban."
+  },
+  "apiKey": "be7a0adfb060a4724397955084e093c2b1656906e1de502a40293e4bfa1574ef",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
