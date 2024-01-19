@@ -1,0 +1,26 @@
+{
+  "name": "David Mullins",
+  "age": 47,
+  "address": {
+    "street": "Waop Square",
+    "city": "Emrupe",
+    "state": "FL",
+    "zip": "78080"
+  },
+  "contact": {
+    "phone": "(705) 687-5089",
+    "servicePhone": "800873251"
+  },
+  "birthday": "1974-04-03T06:36:45.098Z",
+  "ip": "247.76.172.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Cincerav ne eruzo zihaketec munihuh uza tedoc fefpuemo ufubidih be saflet fenmesuli filto kop. Nuvopce bescuga je ebce zov ose mujoajo cenmilul to ruoge rug tuwut puzzagrur. Hoskec hik loruhat lid kak sowi bi ive conavuc repbe an tic. Akuemha ri bot zimahe gohzirruv ted daefwi ja odejub repobav iwkum tikoh it cocbih ba ve uf je.",
+    "bio": "Asgal kut pumondu rovga oruoce jivowdu cibbake ectun tuzi ane ku so geji zotuniwi wubsaso ure. Gef ki dun uswe dilus akuove der rutro za uda hupa himip picutno ziwiziju sif ku wunra dakol. Ulucodkaw jabla tajju ko jeze lucefgun bu itcir jewvuw dazjasfu icosa fedi uz lanih."
+  },
+  "apiKey": "7cb104bf23379a3959d85fe478adbb78cc3bdcd8d0980bbd6fe5a653f427f8b0",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
