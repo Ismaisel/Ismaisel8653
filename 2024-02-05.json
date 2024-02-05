@@ -1,0 +1,26 @@
+{
+  "name": "Leonard Caldwell",
+  "age": 42,
+  "address": {
+    "street": "Akaser Trail",
+    "city": "Gogpolij",
+    "state": "TX",
+    "zip": "12598"
+  },
+  "contact": {
+    "phone": "(340) 851-3717",
+    "servicePhone": "800156457"
+  },
+  "birthday": "1971-10-21T01:56:49.809Z",
+  "ip": "206.22.160.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Pina vadobav fabic koc umu gal hov dadebave cod fiatfep en dipoz nunohge. Hoawajez kewug kekirosa eme op duvjig su velwer remogef tet no mumdon bit si oru. Basvol ked sunes duepe vokgol sodlo jolij hiupa sibnawnug guwpel ji gajhi gupno so nippu sikab nudevivi.",
+    "bio": "Bodcusza wap hugol lursuce pifwe ubikabrim vusal hesmekcow if hifamjo navsepo debbiro mo ru div ju liswaopo dinov. Mawfodta fohhejufa meuvu sa bofi ew dejco wacwu gan wa sisoij ow gigeju zeh. Mofe wew tal levcavwuf umucasono repi dinuh isafu feci papdibomu tece uf cothiber. Tiukuuh ligamuju zag zuc simuc piziri bejuh wobebef tu hol apdev le utzih huudvot owco detruk zaz. Uheobi ruptav najanpa verebcu cav jusidha tenuno vig ohtu kudzevi covhoige elirhu gu cobokvov puphij keluv gu. Olsoduj ujwet pewdu herwejjeb teino elu hivolzo pelec suf uma megtafuwi fat po raape."
+  },
+  "apiKey": "dd9b150965b2dd3b0f7eb5541b6249bea3ac67233ebaafc506e5f1a1b8b3afe4",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
