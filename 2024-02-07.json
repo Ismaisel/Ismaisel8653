@@ -1,0 +1,26 @@
+{
+  "name": "Nora Henderson",
+  "age": 36,
+  "address": {
+    "street": "Zisa Pike",
+    "city": "Dojrokak",
+    "state": "NY",
+    "zip": "46223"
+  },
+  "contact": {
+    "phone": "(734) 975-5915",
+    "servicePhone": "800359217"
+  },
+  "birthday": "1997-09-13T00:21:29.332Z",
+  "ip": "214.206.234.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Ditzofe tonad nej udema litipvej oc ge jezwe keka hoknev norhigsaf beda zejo nogamtog zeluvu gaow ura vu. Vuhovi hohecru eheehilic diwe si onutelak em hos retahis ereakekan wilen dutfole celfipte av heeve. Az avfod zecige dof rec ituap ni gilioje zujkognop ibica rumevlof awu feja imosoc dopfu nihiv ra. Sid tohviw pabiafi te ojrof vev dilopojig nira picrek enmousi no geza eraclo tosefa.",
+    "bio": "Ivuko ducgot avroj tu de odaerbow vaobaaz wurij kecud janouw teghiju no. Dirrabu covap niflunow vo mazwidad upusu lohge pafule obi racbokle dajmupuf cin bisuse jiugo onuni samak lewepir fa. Kegvi ji jodbumget ri vitvo zak vilok kug uchirpuh sopcunis wu jahuslip feuzo upo zilorpu doz zum osaaguke."
+  },
+  "apiKey": "25e308d6f537634e3571fc687b342cad4bab9718f4c70bd07be6ea228df9ec2e",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
