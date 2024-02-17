@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia McKenzie",
+  "age": 20,
+  "address": {
+    "street": "Cipjot Loop",
+    "city": "Haawelu",
+    "state": "OR",
+    "zip": "35234"
+  },
+  "contact": {
+    "phone": "(229) 630-3926",
+    "servicePhone": "800928935"
+  },
+  "birthday": "2001-11-23T05:30:36.112Z",
+  "ip": "233.237.140.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Afeobgo to pafet wu dafunsi buvgihsig mi hud gidruja bakmekfar niz vumez ano akut bam muov leh. Er ej nipumcar lemliama ekbur dugidaz weg bohfolog uhi wurig baje limbamkar wumokzi idu. Hiknu ragep iweegusa tenguhi nekvulbe vusto miransek keb kon fod ocemubo zursaub. Tejha satuzo odimazfuv ipiwo ofwi ihavra towan tut azjouze oro bernohi datifhu lisocejes kopo abi. Rotku ovoepowan fulel duew lim kaflace jivoke hos lenca bodom fu zetlupe ecedu map. Tu oturuc kome nu vigo muokivi muev vomow molar tatindat le gidba ji.",
+    "bio": "Nufu jenu su rejbocpem vut fiivufi poiba suhu savopta du gow todif pin do gu. Javacosu ca oghuku daz pekat pafhahab adten feuvcus pomguw isobo bel wal jofdebaz irocemul bawuv. Vogehro ditam ditgudja omupit pe zadipsa abu weseclis nenepa micokab acwu defad nurib zu kuhog tiruwdak soneg."
+  },
+  "apiKey": "d1ceea20abf5ab57e0a8d106b7d4207777e0c09757bd2f60368961e003754316",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
