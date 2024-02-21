@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Webb",
+  "age": 50,
+  "address": {
+    "street": "Tuoh Plaza",
+    "city": "Navhonlov",
+    "state": "NJ",
+    "zip": "78106"
+  },
+  "contact": {
+    "phone": "(954) 787-4162",
+    "servicePhone": "800248995"
+  },
+  "birthday": "1981-11-17T02:59:11.396Z",
+  "ip": "136.229.156.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Korcetuf bemlel igatkub uw lebuwdos ofusu henmealo rok selfizkiw ce iliijruv mu wahic rit. Kamivaku kakucwo ge kucadu ditat itufazum arap vabemi egpek uko vo vusuh duv. Mep mavje hu icefef kelikgup pizib hoduzuze tekmet gukjunuc tovura huv oma. Epa fe zukedfec gegrithiz ivewoda donep arogaki piajof ticen ulu rezagori cavmaeg gawit.",
+    "bio": "Ze danole fifa libuhbu ne pa wewcaf refet cezsanivi pefew ki pasnev ju huzces nasa fam hagjagdas. Jiz nahzabve zedmeruj rerjap koohu kekfeut op sa awa vira fap co wepe. Uhkuj kon lerel rashul zeswe ame kicme wiv anoze puvrooja bu ura."
+  },
+  "apiKey": "10ebd8ef5dd3dfd531a2bc4fad5ee2e0dfdb022c7d073713964b3188b04f77c5",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
