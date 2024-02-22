@@ -1,0 +1,26 @@
+{
+  "name": "Charlotte Morris",
+  "age": 41,
+  "address": {
+    "street": "Rubcev Highway",
+    "city": "Odobocdi",
+    "state": "AL",
+    "zip": "35209"
+  },
+  "contact": {
+    "phone": "(378) 969-4776",
+    "servicePhone": "800939795"
+  },
+  "birthday": "1993-08-30T03:06:13.153Z",
+  "ip": "38.8.219.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Mov zon vosju tuetabi ziovgu kig toiwdo kogzin avzunjoj piek vi loberam. Po hebkiode gipsuk bo ikacom luw do zo hegba denez zawe zitetalu dumit rup. Oj ne suldubka tuj ob mop cuero tobjetut seraeju bowim huftamca fodubwip hithu na.",
+    "bio": "Sil id wa jihte lewguutu kaz wo femsidjod ofnuloja livi salcili zo ritugeb utiora lumge. Reedca rew tajfow labojove hebazoub inwuin vutcam miwid afivi wu ab irirod meodunok jimhumo uhmu mur. Wabon dukadsa fuog bafenom evidov pu iti ozoamizu huwlinju muwwo socde zup hi uguwih kediogo giguzo cubpered joj."
+  },
+  "apiKey": "ec82b635d20fed8363b01a10b09559161321744f7b787e57d4eeb6de98d1ced8",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
