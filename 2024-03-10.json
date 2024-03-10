@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Luna",
+  "age": 30,
+  "address": {
+    "street": "Voene Grove",
+    "city": "Esatizo",
+    "state": "NC",
+    "zip": "41596"
+  },
+  "contact": {
+    "phone": "(610) 351-6557",
+    "servicePhone": "800218341"
+  },
+  "birthday": "1989-05-19T23:10:46.610Z",
+  "ip": "242.159.11.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Vako gufefazul fi ticzep zukeh getep zejimad igli jahulzi nus homwe gacza jar lafnin tig mek. Ri jeol ziaja awabu hopaj birizwog mijo ap tamfuwsuj nirhaur vinigmo jege do. Isoba ociga gi foevi muvnope otu unzuhgim don vu weewo waji figkah di. Do sigga ajjo bos li gi agepi dijilmab kewza ickemi nos vunu adara cutfez dince ibocehti isa lal. Kicbidjiw wi ope ut jisolpu cagac ru rekip nopvuvih osocip tam sus.",
+    "bio": "Miskev vur atma lun zaroj vajwa iluveome hujle fame icewa fom se ovebefafi poolen aprib pahva. Rop mivapvip jopebsiw bici buduli oti dekdin gunwud de ten seszidmo geka. Uje apoka cictezta de iwi cu ra morokju nu gibu pom ju rubnu ijecawki igufolu big lizo. Juw dufdalnin kehoh cov dih ko ejobicubo ugiet osu jobil gopucauv zose galpakeb vana owe. Fop bewhimme ociju jagtak ifkoam ga zusic ejoro udelme dihica zavees panla lenuweh pubo zu puwafouz ise. Mi lujve zowko ra ej be pefovwe owivuwpo pafu zo kud lovofi teus cefibli uvwaveh ob."
+  },
+  "apiKey": "78caf5235effff3fc5d5f4909284f2c431f5e774905b7d12ebdb54fa28b56370",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
