@@ -1,0 +1,26 @@
+{
+  "name": "Rachel Moran",
+  "age": 56,
+  "address": {
+    "street": "Nagile Heights",
+    "city": "Komazene",
+    "state": "NY",
+    "zip": "75020"
+  },
+  "contact": {
+    "phone": "(981) 605-1114",
+    "servicePhone": "800252484"
+  },
+  "birthday": "1970-05-08T00:41:40.146Z",
+  "ip": "149.141.238.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuz bonad nocpov baz ogalore osiojoba fut wovla wopis ga ni odi fofgeis jemfi. Ihvid rowawmeg haut dubas pehezer nob omusa egisu leliimo vaug poman na igfejec. Ja vihbeke alahiaz du oli tesopi lal fak akhirih zentid an ov. Nuzesub danbud jipa gaspep oppaisa gozjadpak luro be tigaovu tujmen rufatuz jorli kam pikawvot puza bokpoj cumuc.",
+    "bio": "Gegakej atecintip tadoz neuje muzzi becache lu zustidik caguzehes jalupcap tef jemu hefwahcin ibohke. Nippab zuffuvgar vuf hof si ahfez bep salo cesac ca wiv igag. Carito uzoebeza zar paza mesumvo ujowu todoruv zihjik omwilug rotaj mi paizi gifropker."
+  },
+  "apiKey": "a38c66835fde09c0ab3c82e2bf07ca1571040dcaca809f1a8217d78d3c221018",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
