@@ -1,0 +1,26 @@
+{
+  "name": "Susan McCoy",
+  "age": 32,
+  "address": {
+    "street": "Citta Trail",
+    "city": "Zididdi",
+    "state": "SD",
+    "zip": "67003"
+  },
+  "contact": {
+    "phone": "(561) 357-8452",
+    "servicePhone": "800367161"
+  },
+  "birthday": "1980-07-08T07:54:31.226Z",
+  "ip": "41.185.70.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Na diuhoca nek cimoc fum vecav fa dofso su it zel budigun. Ubijil nahtenjub hafhik ubama hamwu ul ezfar wi oda dejuzu huluvot urwullag ha vuk me elecumug. Du fav otrofzut rij mu rub upba zoc jiduba jig mijidu ewe hizil. Sehle esi om mi areen zifa ujo boce kerhi mamob nizdu liz.",
+    "bio": "Ripivi tev cizlilzoh kobfa mak kod ke kak deme zorilkab cuheb voah rot kehi wobwu lu. Ceb nizef bitel asegotsog cekeligo ro pikfe oza ideka sa igo jubib leicdeg obeniuv obepulag icegiala fo. Liwo la luswume uhge okkuhrid ucmes rophetju sun zojlevi cunjozza ze gu fu ufvif jod kece ezjonuvo va. Ce tasechef leojiki po weutinuj wagodo taw bemvuteg za hawoji up fecges."
+  },
+  "apiKey": "aaf1179df6e7ee4e007b67ac01aa0743b08f98d51cd5692e0fccfb4ff5206483",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
